@@ -1,8 +1,7 @@
-![Auto Assign](https://github.com/PROJECT-HUB-BAI/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
-
-![Proof HTML](https://github.com/PROJECT-HUB-BAI/demo-repository/actions/workflows/proof-html.yml/badge.svg)
-
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
-
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+               
+      
+       RULE:      
+       
+       1.Roles will be assigned , to avoid sneak peaking other peoples project , the team leader of that group can allow only .    
+      2. Use your Name or NU ID as usernames.    
+      3.This a collaborative environment, avoid accessing other people's repo unless they allow you.
